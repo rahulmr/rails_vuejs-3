@@ -1,16 +1,13 @@
 <template>
   <div id="app">
-    <p>{{ message }}</p>
+    <p v-if="message">{{ message }}</p>
+    <p v-else>fsdfdsfa</p>
   </div>
 </template>
 
 <script>
 export default {
-  data: function () {
-    return {
-      message: "Hello Vfsdfdsue!"
-    }
-  }
+  props: ['message']
 }
 </script>
 
