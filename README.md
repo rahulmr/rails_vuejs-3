@@ -1,6 +1,6 @@
-# Rails + Webpack + Vue.js Demon
+# Rails + Webpack + Vue.js + Tailwindcss Demon
 
-A Basic Ruby on Rails application with Vue (not a frontend) 
+A Basic Ruby on Rails application with Vue and Tailwindcss (not a frontend) 
 
 Things you may want to cover:
 
