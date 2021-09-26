@@ -1,7 +1,6 @@
-# README
+# Rails + Webpack + Vue.js Demon
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Basic Ruby on Rails application with Vue (not a frontend) 
 
 Things you may want to cover:
 
