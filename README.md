@@ -1,23 +1,4 @@
-# Rails + Webpack + Vue.js + Tailwindcss Demon
+# Rails + Webpack + Vue.js + Tailwindcss Starter Template
 
-A Basic Ruby on Rails application with Vue and Tailwindcss (not a frontend) 
+A Basic Ruby on Rails application with Vue (not a frontend) and Tailwindcss 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
